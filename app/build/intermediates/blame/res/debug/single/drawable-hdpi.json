@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switch_off.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\switch_off.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switch_on.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\switch_on.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seekbar_line.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\seekbar_line.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_switch_camera_on.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_switch_camera_on.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\qr_code.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\qr_code.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seekbar_line_highlight.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\seekbar_line_highlight.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_beauty_png.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_beauty_png.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_black.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\music_black.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mic_black.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\mic_black.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\circle.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\motion_press.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\motion_press.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\switch_press.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\switch_press.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_message_png.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_message_png.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_flash_png.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_flash_png.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_big.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\music_big.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mic.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\mic.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\beauty_seekbar_icon.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\beauty_seekbar_icon.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_item_selected.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\music_item_selected.png"
+    },
+    {
+        "merged": "E:\\git\\TCLVBIMDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_choice.png",
+        "source": "E:\\git\\TCLVBIMDemo\\app\\src\\main\\res\\drawable-hdpi\\music_choice.png"
+    }
+]
